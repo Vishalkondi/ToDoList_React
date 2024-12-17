@@ -9,7 +9,6 @@ Responsive Design: Works seamlessly on all devices.
 Modern UI: Styled with a sleek and elegant design for an enhanced user experience.
 🚀 Demo
 
-Add a live demo link here, if hosted (e.g., on Netlify, Vercel, etc.)
 
 🛠️ Technologies Used
 Frontend: React.js, CSS
@@ -44,7 +43,8 @@ bash
 Copy code
 npm start
 📸 Screenshots
-Main Page
+![Uploading Screenshot (21).png…]()
+
 
 Add Task
 
